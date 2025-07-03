@@ -53,7 +53,9 @@ _…and more are launching soon._
 ## 📈 Trinity Mods Stats (Coming Soon)
 
 <p align="center">
-  <img src="https://fakeimg.pl/500x180/282c34/eaeaea?text=GitHub+Stats+Coming+Soon&font=lobster" />
+  <img src="https://i.gifer.com/ZKZg.gif" width="90" alt="Loading..." />
+  <br>
+  <sub>Loading stats... please wait</sub>
 </p>
 
 ---
