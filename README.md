@@ -5,7 +5,7 @@
 <h2 align="center">──「 𝙏𝙧𝙞𝙣𝙞𝙩𝙮 𝙈𝙤𝙙𝙨 」──</h2>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/47e6485c-73ad-44ed-b90c-4b77327caae6" width="270px" alt="Trinity Mods Logo"/>
+  <img src="https://github.com/user-attachments/assets/f7653b1e-e2b1-4897-9de1-f830aca391b6" width="270px" alt="Trinity Mods Logo"/>
 </p>
 
 ---
@@ -24,9 +24,9 @@ We're not here to flood the space. We're here to **raise the bar** — building 
 
 ## 💡 What We Build
 
-- 🤖 **Telegram Bots** – Modular, scalable, and user-friendly
-- 🧩 **Modded Tools** – Unique scripts and APKs with extended functionality
-- 🧰 **Dev Utilities** – Simplify everyday workflow and automation
+- 🤖 **Telegram Bots** – Modular, scalable, and user-friendly  
+- 🧩 **Modded Tools** – Unique scripts and APKs with extended functionality  
+- 🧰 **Dev Utilities** – Simplify everyday workflow and automation  
 - 🎁 **Community Giveaways** – Credits, bots, and toolkits for our users
 
 ---
