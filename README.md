@@ -5,47 +5,48 @@
 <h2 align="center">──「 𝙏𝙧𝙞𝙣𝙞𝙩𝙮 𝙈𝙤𝙙𝙨 」──</h2>
 
 <p align="center">
-  <img src="https://graph.org/file/ce1723991756e48c35aa1.jpg" width="250px" alt="Trinity Mods Logo"/>
+  <img src="https://github.com/user-attachments/assets/47e6485c-73ad-44ed-b90c-4b77327caae6" width="270px" alt="Trinity Mods Logo"/>
 </p>
 
 ---
 
 ## 👋 Who Are We?
 
-Welcome to **Trinity Mods** — your trusted hub for premium Telegram bots, APKs, automation tools, and custom-built utilities, either **free or at unbeatable rates**.
+Welcome to **Trinity Mods** — your trusted hub for premium Telegram bots, modded APKs, automation tools, and exclusive utilities.  
+Whether free or priced right, we deliver value without compromise.
 
-We’re not here to flood the scene with noise — we build tools that matter, solve real problems, and give creators, admins, and power users the edge they need.
+We're not here to flood the space. We're here to **raise the bar** — building high-performance tools that **solve real problems** for creators, admins, developers, and communities.
 
-### 🔥 Backed by InfoHub Networks  
-Follow our updates via [@infohub_updates](https://t.me/infohub_updates)
+> 💼 **Powered by InfoHub Networks**  
+> 🔔 Stay updated via [@infohub_updates](https://t.me/infohub_updates)
 
 ---
 
 ## 💡 What We Build
 
-- 🤖 **Telegram Bots** – Powerful, scalable, user-friendly
-- 🧩 **Modded Tools** – Unique APKs and scripts with exclusive features
-- 🔧 **Dev Utilities** – Streamline automation for creators and admins
-- 🎁 **Giveaways** – Tools, coins, and credits for our active users
+- 🤖 **Telegram Bots** – Modular, scalable, and user-friendly
+- 🧩 **Modded Tools** – Unique scripts and APKs with extended functionality
+- 🧰 **Dev Utilities** – Simplify everyday workflow and automation
+- 🎁 **Community Giveaways** – Credits, bots, and toolkits for our users
 
 ---
 
-## 🔨 Tech & Tools
+## 🔨 Tech Stack
 
 - **Languages:** Python, JavaScript, HTML/CSS  
 - **Frameworks & Libs:** Pyrogram, Flask, Node.js  
-- **Cloud:** Heroku, Railway, Vercel  
-- **Database:** MongoDB, Firebase
+- **Platforms:** Heroku, Railway, Vercel  
+- **Databases:** MongoDB, Firebase
 
 ---
 
 ## 🚀 Sample Projects
 
-- [🧠 Auto Filter Bot](https://github.com/trinitymods/autofilter) – Full-featured Telegram filter bot with UI tools  
-- [📁 File Store Bot](https://github.com/trinitymods/filestore) – Link-based media archive + file manager  
-- [📝 Auto Rename Bot](https://github.com/trinitymods/autorename) – Rename anything with thumbnail, caption, and speed
+- [🧠 Auto Filter Bot](https://github.com/trinitymods/autofilter) – Advanced filter & management bot  
+- [📁 File Store Bot](https://github.com/trinitymods/filestore) – Save, archive, and serve content via smart links  
+- [📝 Auto Rename Bot](https://github.com/trinitymods/autorename) – Auto-rename media with thumbnail & caption tools
 
-_…and more launching soon._
+_…and more are launching soon._
 
 ---
 
@@ -57,24 +58,23 @@ _…and more launching soon._
 
 ---
 
-## 🤝 We Work With
+## 🤝 Core Team
 
-- 🧙‍♂️ [@the_universal_being](https://t.me/the_universal_being)  
-- 🎓 [@velvetexams](https://t.me/velvetexams)
+- 🧙‍♂️ [@the_universal_being](https://t.me/the_universal_being) – Architect & Visionary  
+- 🎓 [@velvetexams](https://t.me/velvetexams) – Developer Relations & System Strategy
 
-These are the minds who guide us, build with us, and keep us aligned with real impact.
+We don’t just build bots — we build a system that lasts.  
+Mentored by those who’ve done it before — and doing it better every time.
 
 ---
 
 ## 📫 Contact & Connect
 
-- 🔹 Telegram Channel: [@trinitymods](https://t.me/trinitymods)  
-- 🔹 Dev Support: [@velvetexams](https://t.me/velvetexams)  
-- 🔹 Coming Soon: Official Website | Marketplace | Docs
+- 💬 Telegram Channel: [@trinitymods](https://t.me/trinitymods)  
+- 🛠 Dev Support: [@velvetexams](https://t.me/velvetexams)  
+- 🌐 Coming Soon: Website | Dev Docs | Marketplace
 
 ---
 
 > 🧪 “We’re not here to play safe — we’re here to build bots that change the game.”  
 > — **Team Trinity Mods**
-
-
