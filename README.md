@@ -1,57 +1,80 @@
-# 👾 Hello There!
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=DC143C&center=true&vCenter=true&width=650&height=100&lines=Welcome+to+Trinity+Mods!;Premium+Mods,+Smart+Bots+%26+Next-Gen+Tools;Built+with+Purpose.+Delivered+with+Power.">
+</p>
 
-### 🧠 Welcome to **Trinity Mods** – where next-gen bots and premium tools come to life!
+<h2 align="center">──「 𝙏𝙧𝙞𝙣𝙞𝙩𝙮 𝙈𝙤𝙙𝙨 」──</h2>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F58C&center=true&vCenter=true&width=700&lines=💡+Newer+Bots+🚀;🛠+Powerful+Tools+🔧;🤖+Smart+Functionalities+🔥;🎁+Exclusive+Giveaways+🎉)
-
----
-
-## ✨ About Trinity Mods
-
-Welcome to **Trinity Mods** – your ultimate destination for **premium mods**, **APKs**, **intelligent bots**, and **exclusive software**, offered for **free or at unbeatable prices**!
-
-We go far beyond just tools:
-- 🧠 Expert tactics & usage tips  
-- 🎁 Regular giveaways & community rewards  
-- 🪄 Seamless user experience backed by powerful automation  
-
-Trinity Mods is a project under **InfoHub Networks**, closely linked with our central update channel – [@infohub_updates](https://t.me/infohub_updates).  
-
-As one of the most **trusted and sophisticated bot development teams**, we’re focused on keeping everything:
-- ⚡ Affordable  
-- 📱 Accessible  
-- 🤝 User-friendly  
-
-So you always get **the best value** — no compromises.
+<p align="center">
+  <img src="https://graph.org/file/ce1723991756e48c35aa1.jpg" width="250px" alt="Trinity Mods Logo"/>
+</p>
 
 ---
 
-## ✅ What to Expect
+## 👋 Who Are We?
 
-<img src="https://media.giphy.com/media/4T7e4DmcrP9du/giphy.gif" width="20" /> **Next-Gen Bots** – Powerful, adaptive, and designed for modern platforms  
-<img src="https://media.giphy.com/media/4T7e4DmcrP9du/giphy.gif" width="20" /> **Modding Tools** – Premium utilities made simple and efficient  
-<img src="https://media.giphy.com/media/4T7e4DmcrP9du/giphy.gif" width="20" /> **New Functionalities** – Unique features you won't find anywhere else  
-<img src="https://media.giphy.com/media/4T7e4DmcrP9du/giphy.gif" width="20" /> **Exclusive Resources** – Giveaways, premium drops, and insider content
+Welcome to **Trinity Mods** — your trusted hub for premium Telegram bots, APKs, automation tools, and custom-built utilities, either **free or at unbeatable rates**.
+
+We’re not here to flood the scene with noise — we build tools that matter, solve real problems, and give creators, admins, and power users the edge they need.
+
+### 🔥 Backed by InfoHub Networks  
+Follow our updates via [@infohub_updates](https://t.me/infohub_updates)
 
 ---
 
-## 🧙‍♂️ Our Mentors & Inspirations
+## 💡 What We Build
 
-- 🌌 [@the_universal_being](https://t.me/the_universal_being)  
+- 🤖 **Telegram Bots** – Powerful, scalable, user-friendly
+- 🧩 **Modded Tools** – Unique APKs and scripts with exclusive features
+- 🔧 **Dev Utilities** – Streamline automation for creators and admins
+- 🎁 **Giveaways** – Tools, coins, and credits for our active users
+
+---
+
+## 🔨 Tech & Tools
+
+- **Languages:** Python, JavaScript, HTML/CSS  
+- **Frameworks & Libs:** Pyrogram, Flask, Node.js  
+- **Cloud:** Heroku, Railway, Vercel  
+- **Database:** MongoDB, Firebase
+
+---
+
+## 🚀 Sample Projects
+
+- [🧠 Auto Filter Bot](https://github.com/trinitymods/autofilter) – Full-featured Telegram filter bot with UI tools  
+- [📁 File Store Bot](https://github.com/trinitymods/filestore) – Link-based media archive + file manager  
+- [📝 Auto Rename Bot](https://github.com/trinitymods/autorename) – Rename anything with thumbnail, caption, and speed
+
+_…and more launching soon._
+
+---
+
+## 📈 Trinity Mods Stats (Coming Soon)
+
+<p align="center">
+  <img src="https://fakeimg.pl/500x180/282c34/eaeaea?text=GitHub+Stats+Coming+Soon&font=lobster" />
+</p>
+
+---
+
+## 🤝 We Work With
+
+- 🧙‍♂️ [@the_universal_being](https://t.me/the_universal_being)  
 - 🎓 [@velvetexams](https://t.me/velvetexams)
 
-> _We’ve started fresh — but we’re built different. Trinity Mods is here to lead._
+These are the minds who guide us, build with us, and keep us aligned with real impact.
 
 ---
 
-## 📫 Stay Connected
+## 📫 Contact & Connect
 
-- 💬 Telegram Channel: [@trinitymods](https://t.me/trinitymods)  
-- 🧵 Updates & Network: [@infohub_updates](https://t.me/infohub_updates)  
-- 🌐 Coming Soon: Official Website | Marketplace | Dev Docs
+- 🔹 Telegram Channel: [@trinitymods](https://t.me/trinitymods)  
+- 🔹 Dev Support: [@velvetexams](https://t.me/velvetexams)  
+- 🔹 Coming Soon: Official Website | Marketplace | Docs
 
 ---
 
 > 🧪 “We’re not here to play safe — we’re here to build bots that change the game.”  
 > — **Team Trinity Mods**
+
 
