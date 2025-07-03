@@ -70,7 +70,7 @@ Mentored by those who’ve done it before — and doing it better every time.
 
 ## 📫 Contact & Connect
 
-- 💬 Telegram Channel: [@trinitymods](https://t.me/trinitymods)  
+- 💬 Telegram Channel: [@trinityXmods](https://t.me/trinityXmods)  
 - 🛠 Dev Support: [@velvetexams](https://t.me/velvetexams)  
 - 🌐 Coming Soon: Website | Dev Docs | Marketplace
 
