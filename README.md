@@ -8,9 +8,9 @@
 
 ## ✅ What to Expect:
 
-![tick](https://raw.githubusercontent.com/rajput2107/animated-tick/main/checkmark.gif) **Newer Bots** – Modern, fast, and tailored for today's platforms  
-![tick](https://raw.githubusercontent.com/rajput2107/animated-tick/main/checkmark.gif) **Newer Tools** – Dev utilities that simplify everything  
-![tick](https://raw.githubusercontent.com/rajput2107/animated-tick/main/checkmark.gif) **Newer Functionalities** – Going beyond standard bot features  
+<img src="https://media.giphy.com/media/4T7e4DmcrP9du/giphy.gif" width="20" /> **Newer Bots** – Modern, fast, and tailored for today's platforms  
+<img src="https://media.giphy.com/media/4T7e4DmcrP9du/giphy.gif" width="20" /> **Newer Tools** – Dev utilities that simplify everything  
+<img src="https://media.giphy.com/media/4T7e4DmcrP9du/giphy.gif" width="20" /> **Newer Functionalities** – Going beyond standard bot features  
 
 ---
 
@@ -22,11 +22,11 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats (Demo Preview)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=trinitymods&show_icons=true&theme=radical&hide=issues&count_private=true)
+<img src="https://fakeimg.pl/500x200/282c34/eaeaea?text=GitHub+Stats+Coming+Soon&font=lobster" alt="Fake GitHub Stats" />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trinitymods&layout=compact&theme=radical)
+<img src="https://fakeimg.pl/400x100/282c34/eaeaea?text=Top+Languages&font=lobster" alt="Fake Top Langs" />
 
 ---
 
