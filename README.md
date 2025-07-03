@@ -22,14 +22,6 @@
 
 ---
 
-## 📊 GitHub Stats (Demo Preview)
-
-<img src="https://fakeimg.pl/500x200/282c34/eaeaea?text=GitHub+Stats+Coming+Soon&font=lobster" alt="Fake GitHub Stats" />
-
-<img src="https://fakeimg.pl/400x100/282c34/eaeaea?text=Top+Languages&font=lobster" alt="Fake Top Langs" />
-
----
-
 ## 📫 Let's Connect
 - 💬 Telegram Channel: [@trinitymods](https://t.me/trinitymods)
 - 🌐 Coming soon: Website + Marketplace + Dev Docs
