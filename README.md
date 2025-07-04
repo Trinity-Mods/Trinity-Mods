@@ -18,7 +18,7 @@ Whether free or priced right, we deliver value without compromise.
 We're not here to flood the space. We're here to **raise the bar** — building high-performance tools that **solve real problems** for creators, admins, developers, and communities.
 
 > 💼 **Powered by InfoHub Networks**  
-> 🔔 Stay updated via [@infohub_updates](https://t.me/infohub_updates)
+> 🔔 Stay updated via [@trinityXmods](https://t.me/trinityXmods)
 
 ---
 
@@ -101,8 +101,8 @@ Mentored by those who’ve done it before — and doing it better every time.
   </a>
 </p>
 
-> 🔰 Contact **@the_universal_being** for all major queries.  
-> For technical troubleshooting or project-specific assistance, reach out to **@ZOX404** or **@velvetexams**.
+> 🔰 Contact [@the_universal_being](https://t.me/the_universal_being) for all major queries.  
+> For technical troubleshooting or project-specific assistance, reach out to [@ZOX404](https://t.me/ZOX404) or [@velvetexams](https://t.me/velvetexams).
 
 ---
 
