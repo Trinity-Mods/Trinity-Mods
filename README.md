@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=DC143C&center=true&vCenter=true&width=650&height=100&lines=Welcome+to+Trinity+Mods!;Premium+Mods,+Smart+Bots+%26+Next-Gen+Tools;Built+with+Purpose.+Delivered+with+Power.">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=39FF14&center=true&vCenter=true&width=650&height=100&lines=Welcome+to+Trinity+Mods!;Premium+Mods,+Smart+Bots+%26+Next-Gen+Tools;Built+with+Purpose.+Delivered+with+Power.">
 </p>
 
 <h2 align="center">──「 𝙏𝙧𝙞𝙣𝙞𝙩𝙮 𝙈𝙤𝙙𝙨 」──</h2>
@@ -62,8 +62,14 @@ _…and more are launching soon._
 
 ## 🤝 Core Team
 
-- 🧙‍♂️ [@the_universal_being](https://t.me/the_universal_being) – Architect & Visionary  
-- 🎓 [@velvetexams](https://t.me/velvetexams) – Developer Relations & System Strategy
+- 🧠 **Ragnar Lothbrok** – [@the_universal_being](https://t.me/the_universal_being)  
+  *Architect & Mastermind*
+
+- ⚙️ **Z∅X** – [@ZOX404](https://t.me/ZOX404)  
+  *Ops & Innovation Lead*
+
+- 🧪 **Dr. Aarav Mehta** – [@velvetexams](https://t.me/velvetexams)  
+  *Infrastructure & Systems Engineer*
 
 We don’t just build bots — we build a system that lasts.  
 Mentored by those who’ve done it before — and doing it better every time.
