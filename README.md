@@ -41,10 +41,8 @@ We're not here to flood the space. We're here to **raise the bar** — building 
 ---
 
 ## 🚀 Sample Projects
-
-- [🧠 Auto Filter Bot](https://github.com/trinitymods/autofilter) – Advanced filter & management bot  
-- [📁 File Store Bot](https://github.com/trinitymods/filestore) – Save, archive, and serve content via smart links  
-- [📝 Auto Rename Bot](https://github.com/trinitymods/autorename) – Auto-rename media with thumbnail & caption tools
+  
+- [📁 File Store Bot](https://github.com/Trinity-Mods/File-Store-Bot) – Save, archive, and serve content via smart links  
 
 _…and more are launching soon._
 
