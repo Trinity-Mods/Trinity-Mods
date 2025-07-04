@@ -44,7 +44,7 @@ We're not here to flood the space. We're here to **raise the bar** — building 
   
 - [📁 File Store Bot](https://github.com/Trinity-Mods/File-Store-Bot) – Save, archive, and serve content via smart links  
 
-_…and more are launching soon._
+_…more projects are launching soon._
 
 ---
 
