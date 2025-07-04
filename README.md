@@ -84,8 +84,25 @@ Mentored by those who’ve done it before — and doing it better every time.
 ## 📫 Contact & Connect
 
 - 💬 Telegram Channel: [@trinityXmods](https://t.me/trinityXmods)  
-- 🛠 Dev Support: [@velvetexams](https://t.me/velvetexams)  
-- 🌐 Coming Soon: Website | Dev Docs | Marketplace
+
+### 🛠 Dev Support (Priority Order):
+
+<p align="center">
+  <a href="https://t.me/the_universal_being">
+    <img src="https://img.shields.io/badge/Primary_Contact-Ragnar_Lothbrok-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Ragnar Lothbrok"/>
+  </a>
+  <br><br>
+  <a href="https://t.me/ZOX404">
+    <img src="https://img.shields.io/badge/Secondary-Z∅X-purple?style=for-the-badge&logo=telegram&logoColor=white" alt="ZOX"/>
+  </a>
+  <br><br>
+  <a href="https://t.me/velvetexams">
+    <img src="https://img.shields.io/badge/Tertiary-Dr._Aarav_Mehta-crimson?style=for-the-badge&logo=telegram&logoColor=white" alt="Dr. Aarav Mehta"/>
+  </a>
+</p>
+
+> 🔰 Contact **@the_universal_being** for all major queries.  
+> For technical troubleshooting or project-specific assistance, reach out to **@ZOX404** or **@velvetexams**.
 
 ---
 
