@@ -62,14 +62,19 @@ _…and more are launching soon._
 
 ## 🤝 Core Team
 
-- 🧠 **Ragnar Lothbrok** – [@the_universal_being](https://t.me/the_universal_being)  
-  *Architect & Mastermind*
-
-- ⚙️ **Z∅X** – [@ZOX404](https://t.me/ZOX404)  
-  *Ops & Innovation Lead*
-
-- 🧪 **Dr. Aarav Mehta** – [@velvetexams](https://t.me/velvetexams)  
-  *Infrastructure & Systems Engineer*
+<p align="center">
+  <a href="https://t.me/the_universal_being">
+    <img src="https://img.shields.io/badge/Ragnar_Lothbrok-Architect_&_Mastermind-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Ragnar Lothbrok"/>
+  </a>
+  <br><br>
+  <a href="https://t.me/ZOX404">
+    <img src="https://img.shields.io/badge/Z∅X-Ops_&_Innovation_Lead-purple?style=for-the-badge&logo=telegram&logoColor=white" alt="ZOX"/>
+  </a>
+  <br><br>
+  <a href="https://t.me/velvetexams">
+    <img src="https://img.shields.io/badge/Dr._Aarav_Mehta-Infra_&_Systems_Engineer-crimson?style=for-the-badge&logo=telegram&logoColor=white" alt="Dr. Aarav Mehta"/>
+  </a>
+</p>
 
 We don’t just build bots — we build a system that lasts.  
 Mentored by those who’ve done it before — and doing it better every time.
