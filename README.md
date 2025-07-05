@@ -99,15 +99,19 @@ We’re not just developers — **we're creators of standards.**
 
 <p align="center">
   <a href="https://t.me/the_universal_being">
-    <img src="https://img.shields.io/badge/Ragnar_Lothbrok-229ED9?style=for-the-badge&logo=telegram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Ragnar_Lothbrok-Mastermind-1e3a8a?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
-  &nbsp;&nbsp;
-  <a href="https://t.me/ZOX404">
-    <img src="https://img.shields.io/badge/ZOX-8b5cf6?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
-  &nbsp;&nbsp;
+</p>
+
+<p align="center">
   <a href="https://t.me/velvetexams">
-    <img src="https://img.shields.io/badge/Dr.Aarav_Mehta-ef4444?style=for-the-badge&logo=telegram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Dr.Aarav_Assistant-7c3aed?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://t.me/ZOX404">
+    <img src="https://img.shields.io/badge/Z%E2%88%85X_Technician-f97316?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
 </p>
 
