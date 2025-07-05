@@ -41,52 +41,39 @@ We’re not just developers — **we're creators of standards.**
 
 ## ☁️ Deploy Anywhere
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <a href="https://heroku.com" target="_blank">
-        <img src="https://img.shields.io/badge/Heroku-430098?logo=heroku&logoColor=white&style=for-the-badge" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://railway.app" target="_blank">
-        <img src="https://img.shields.io/badge/Railway-000000?logo=railway&logoColor=white&style=for-the-badge" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://vercel.com" target="_blank">
-        <img src="https://img.shields.io/badge/Vercel-FFFFFF?logo=vercel&logoColor=black&style=for-the-badge" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://render.com" target="_blank">
-        <img src="https://img.shields.io/badge/Render-0E1D45?logo=render&logoColor=white&style=for-the-badge" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://koyeb.com" target="_blank">
-        <img src="https://img.shields.io/badge/Koyeb-000000?logo=koyeb&logoColor=white&style=for-the-badge" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://cloudflare.com" target="_blank">
-        <img src="https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=white&style=for-the-badge" />
-      </a>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://heroku.com" target="_blank">
+    <img src="https://img.shields.io/badge/Heroku-430098?logo=heroku&logoColor=white&style=for-the-badge" />
+  </a>
+  &nbsp;
+  <a href="https://railway.app" target="_blank">
+    <img src="https://img.shields.io/badge/Railway-000000?logo=railway&logoColor=white&style=for-the-badge" />
+  </a>
+  &nbsp;
+  <a href="https://vercel.com" target="_blank">
+    <img src="https://img.shields.io/badge/Vercel-FFFFFF?logo=vercel&logoColor=black&style=for-the-badge" />
+  </a>
+  &nbsp;
+  <a href="https://render.com" target="_blank">
+    <img src="https://img.shields.io/badge/Render-0E1D45?logo=render&logoColor=white&style=for-the-badge" />
+  </a>
+  &nbsp;
+  <a href="https://koyeb.com" target="_blank">
+    <img src="https://img.shields.io/badge/Koyeb-000000?logo=koyeb&logoColor=white&style=for-the-badge" />
+  </a>
+  &nbsp;
+  <a href="https://cloudflare.com" target="_blank">
+    <img src="https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=white&style=for-the-badge" />
+  </a>
+</p>
 
 ---
 
 ## 📁 Featured Projects
 
 - 📦 [File Store Bot](https://github.com/Trinity-Mods/File-Store-Bot) – serve via links  
-- 🛡️ [Login Auth Bot](#) – OTP entry for admins  
-- ✂️ [Shortener Bot](#) – monetize & track URLs
+- 🛡️ [Auto Filter Bot](#) – Watch and stream movies and webseries
+- ✂️ [File Renamer Bot](#) – Rename files and add thumbnails, captions, etc
 
 > 🌌 More coming soon on [@trinityXmods](https://t.me/trinityXmods)
 
@@ -96,6 +83,9 @@ We’re not just developers — **we're creators of standards.**
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Trinity-Mods&theme=radical&show_icons=true&hide_border=true" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Trinity-Mods&theme=radical&hide_border=true"/>
 </p>
 
@@ -109,15 +99,15 @@ We’re not just developers — **we're creators of standards.**
 
 <p align="center">
   <a href="https://t.me/the_universal_being">
-    <img src="https://img.shields.io/badge/Ragnar_Architect-0f172a?style=for-the-badge&logo=telegram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Ragnar_Architect-229ED9?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
-  <br><br>
+  &nbsp;&nbsp;
   <a href="https://t.me/ZOX404">
-    <img src="https://img.shields.io/badge/ZOX_Innovation-6b21a8?style=for-the-badge&logo=telegram&logoColor=white" />
+    <img src="https://img.shields.io/badge/ZOX_Innovation-8b5cf6?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
-  <br><br>
+  &nbsp;&nbsp;
   <a href="https://t.me/velvetexams">
-    <img src="https://img.shields.io/badge/Dr.Aarav_Systems-c2410c?style=for-the-badge&logo=telegram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Dr.Aarav_Systems-ef4444?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
 </p>
 
@@ -129,7 +119,7 @@ We’re not just developers — **we're creators of standards.**
   <a href="https://t.me/trinityXmods">
     <img src="https://img.shields.io/badge/Updates_Channel-1d4ed8?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
-  <br><br>
+  &nbsp;&nbsp;
   <a href="https://t.me/+WfkDPKF3ztpjZDI1">
     <img src="https://img.shields.io/badge/Get+Support_Group-059669?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
@@ -150,4 +140,3 @@ We’re not just developers — **we're creators of standards.**
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&center=true&vCenter=true&width=850&lines=This+isn't+just+open+source+dev...;It's+a+movement.;Build+cool+shit,+ship+fast,+support+the+tribe+⚡" />
 </p>
-
