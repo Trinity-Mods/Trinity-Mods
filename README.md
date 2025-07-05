@@ -42,8 +42,19 @@ We’re not just developers — **we're creators of standards.**
 ## ☁️ Deploy Anywhere
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=heroku,railway,vercel,render,koyeb,cloudflare&perline=6" />
+  <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" height="40" alt="Heroku"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/railwayapp/railwayapp-icon.svg" height="40" alt="Railway"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" height="40" alt="Vercel"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/render/render-icon.svg" height="40" alt="Render"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/koyeb/koyeb-icon.svg" height="40" alt="Koyeb"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/07/Cloudflare_Logo.svg" height="40" alt="Cloudflare"/>
 </p>
+
 
 ---
 
