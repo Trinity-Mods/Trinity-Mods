@@ -41,27 +41,44 @@ We’re not just developers — **we're creators of standards.**
 
 ## ☁️ Deploy Anywhere
 
-<p align="center">
-  <a href="https://heroku.com" target="_blank">
-    <img src="https://img.shields.io/badge/Heroku-430098?logo=heroku&logoColor=white&style=for-the-badge" alt="Heroku"/>
-  </a>
-  <a href="https://railway.app" target="_blank">
-    <img src="https://img.shields.io/badge/Railway-000000?logo=railway&logoColor=white&style=for-the-badge" alt="Railway"/>
-  </a>
-  <a href="https://vercel.com" target="_blank">
-    <img src="https://img.shields.io/badge/Vercel-FFFFFF?logo=vercel&logoColor=black&style=for-the-badge" alt="Vercel"/>
-  </a>
-  <a href="https://render.com" target="_blank">
-    <img src="https://img.shields.io/badge/Render-0E1D45?logo=render&logoColor=white&style=for-the-badge" alt="Render"/>
-  </a>
-  <a href="https://koyeb.com" target="_blank">
-    <img src="https://img.shields.io/badge/Koyeb-000000?logo=koyeb&logoColor=white&style=for-the-badge" alt="Koyeb"/>
-  </a>
-  <a href="https://cloudflare.com" target="_blank">
-    <img src="https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=white&style=for-the-badge" alt="Cloudflare"/>
-  </a>
-</p>
-
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://heroku.com" target="_blank">
+        <img src="https://img.shields.io/badge/Heroku-430098?logo=heroku&logoColor=white&style=for-the-badge" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://railway.app" target="_blank">
+        <img src="https://img.shields.io/badge/Railway-000000?logo=railway&logoColor=white&style=for-the-badge" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://vercel.com" target="_blank">
+        <img src="https://img.shields.io/badge/Vercel-FFFFFF?logo=vercel&logoColor=black&style=for-the-badge" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://render.com" target="_blank">
+        <img src="https://img.shields.io/badge/Render-0E1D45?logo=render&logoColor=white&style=for-the-badge" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://koyeb.com" target="_blank">
+        <img src="https://img.shields.io/badge/Koyeb-000000?logo=koyeb&logoColor=white&style=for-the-badge" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://cloudflare.com" target="_blank">
+        <img src="https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=white&style=for-the-badge" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -133,3 +150,4 @@ We’re not just developers — **we're creators of standards.**
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&center=true&vCenter=true&width=850&lines=This+isn't+just+open+source+dev...;It's+a+movement.;Build+cool+shit,+ship+fast,+support+the+tribe+⚡" />
 </p>
+
