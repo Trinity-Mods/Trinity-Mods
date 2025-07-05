@@ -12,20 +12,20 @@
 
 ## 👋 Who Are We?
 
-Welcome to <strong>Trinity Mods</strong> — your go-to source for premium Telegram bots, automation tools, and smart APKs.  
+Welcome to <strong>Trinity Mods</strong> — your go-to source for premium Telegram bots, automation tools, and smart APKs.
 We focus on **impact**, not noise — building tools that solve real challenges for communities, creators, and developers.
 
-> 🔧 Developed under **InfoHub Networks**  
+> 🔧 Developed under **InfoHub Networks**
 > 📢 Stay updated via [@trinityXmods](https://t.me/trinityXmods)
 
 ---
 
 ## ⚙️ What We Build
 
-- 🤖 **Telegram Bots** — Modular, powerful, and user-first  
-- 🧩 **Modded Utilities** — Smart APKs & tools with real enhancements  
-- 🧰 **Developer Tools** — Automation & productivity essentials  
-- 🎁 **Giveaways** — Exclusive scripts, credits, and support tools
+* 🤖 **Telegram Bots** — Modular, powerful, and user-first
+* 🧩 **Modded Utilities** — Smart APKs & tools with real enhancements
+* 🧰 **Developer Tools** — Automation & productivity essentials
+* 🎁 **Giveaways** — Exclusive scripts, credits, and support tools
 
 ---
 
@@ -41,11 +41,23 @@ We focus on **impact**, not noise — building tools that solve real challenges 
 
 ---
 
+## ☁️ Deployment Platforms
+
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/koyeb/koyeb-icon.svg" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/render/render-icon.svg" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/railwayapp/railwayapp-icon.svg" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" height="40"/>
+</p>
+
+---
+
 ## 🚀 Projects
 
-- 📁 [File Store Bot](https://github.com/Trinity-Mods/File-Store-Bot) — Upload once, serve forever via shortlinks  
-- 🔐 [Login Auth Bot](#) — One-time login codes for channel/admin access  
-- 📤 [Link Shortener Bot](#) — Smart, monetizable URL shortener
+* 📁 [File Store Bot](https://github.com/Trinity-Mods/File-Store-Bot) — Upload once, serve forever via shortlinks
+* 🔐 [Login Auth Bot](#) — One-time login codes for channel/admin access
+* 📤 [Link Shortener Bot](#) — Smart, monetizable URL shortener
 
 > ✨ More tools dropping soon. Follow [@trinityXmods](https://t.me/trinityXmods)
 
@@ -53,11 +65,16 @@ We focus on **impact**, not noise — building tools that solve real challenges 
 
 ## 📈 Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Trinity-Mods&theme=radical&show_icons=true&hide_border=true"/>
-  <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Trinity-Mods&theme=radical&hide_border=true"/>
-</p>
+<table width="100%">
+  <tr>
+    <td align="left">
+      <img src="https://github-readme-stats.vercel.app/api?username=Trinity-Mods&theme=radical&show_icons=true&hide_border=true"/>
+    </td>
+    <td align="right">
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=Trinity-Mods&theme=radical&hide_border=true"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -67,9 +84,11 @@ We focus on **impact**, not noise — building tools that solve real challenges 
   <a href="https://t.me/the_universal_being">
     <img src="https://img.shields.io/badge/𝑹𝒂𝒈𝒏𝒂𝒓_𝑳𝒐𝒕𝒉𝒃𝒓𝒐𝒌-Architect-blue?style=for-the-badge&logo=telegram" />
   </a>
+  <br><br>
   <a href="https://t.me/ZOX404">
     <img src="https://img.shields.io/badge/𝒁∅𝑿-Innovation-purple?style=for-the-badge&logo=telegram" />
   </a>
+  <br><br>
   <a href="https://t.me/velvetexams">
     <img src="https://img.shields.io/badge/𝑫𝒓.𝑨𝒂𝒓𝒂𝒗_𝑴𝒆𝒉𝒕𝒂-Systems_crimson?style=for-the-badge&logo=telegram" />
   </a>
@@ -83,6 +102,7 @@ We focus on **impact**, not noise — building tools that solve real challenges 
   <a href="https://t.me/trinityXmods">
     <img src="https://img.shields.io/badge/Updates-Telegram-blue?style=for-the-badge&logo=telegram" />
   </a>
+  <br><br>
   <a href="https://t.me/the_universal_being">
     <img src="https://img.shields.io/badge/Primary_Contact-Ragnar-blue?style=for-the-badge&logo=telegram" />
   </a>
@@ -99,6 +119,6 @@ We focus on **impact**, not noise — building tools that solve real challenges 
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/VGK2WUT3amXjG/giphy.gif" width="100" />
+  <img src="https://media.giphy.com/media/VGK2WUT3amXjG/giphy.gif" width="160" />
 </p>
 
