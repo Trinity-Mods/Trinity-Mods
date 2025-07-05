@@ -42,18 +42,19 @@ We’re not just developers — **we're creators of standards.**
 ## ☁️ Deploy Anywhere
 
 <p align="center">
-  <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" height="40" alt="Heroku"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" height="40" alt="Heroku"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/railwayapp/railwayapp-icon.svg" height="40" alt="Railway"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" height="40" alt="Vercel"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" height="40" alt="Vercel"/>
+  <img src="https://user-images.githubusercontent.com/122271113/214401869-47dfb6f6-d4f1-4b34-a97c-6a4e949fa8f6.png" height="40" alt="Railway"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/render/render-icon.svg" height="40" alt="Render"/>
+  <img src="https://user-images.githubusercontent.com/122271113/214401797-7f658e3c-91f4-482b-a7ec-ec309f1e2155.png" height="40" alt="Render"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/koyeb/koyeb-icon.svg" height="40" alt="Koyeb"/>
+  <img src="https://user-images.githubusercontent.com/122271113/214401781-3ae4c91f-1f00-45d2-8885-97cbf48cf343.png" height="40" alt="Koyeb"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/07/Cloudflare_Logo.svg" height="40" alt="Cloudflare"/>
+  <img src="https://user-images.githubusercontent.com/122271113/214401860-90c3d0b2-d6b7-4687-9115-b214d9e80b0e.png" height="40" alt="Cloudflare"/>
 </p>
+
 
 
 ---
