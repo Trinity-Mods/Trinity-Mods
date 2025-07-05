@@ -134,9 +134,5 @@ We’re not just developers — **we're creators of standards.**
 
 <!-- 💬 Closing Words -->
 <p align="center">
-  <img src="https://media.giphy.com/media/VGK2WUT3amXjG/giphy.gif" width="160" />
-</p>
-
-<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&center=true&vCenter=true&width=850&lines=This+isn't+just+open+source+dev...;It's+a+movement.;Build+cool+shit,+ship+fast,+support+the+tribe+⚡" />
 </p>
