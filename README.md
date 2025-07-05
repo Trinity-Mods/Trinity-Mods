@@ -12,20 +12,20 @@
 
 ## 👋 Who Are We?
 
-Welcome to <strong>Trinity Mods</strong> — your go-to source for premium Telegram bots, automation tools, and smart APKs.
+Welcome to <strong>Trinity Mods</strong> — your go-to source for premium Telegram bots, automation tools, and smart APKs.  
 We focus on **impact**, not noise — building tools that solve real challenges for communities, creators, and developers.
 
-> 🔧 Developed under **InfoHub Networks**
+> 🔧 Developed under **InfoHub Networks**  
 > 📢 Stay updated via [@trinityXmods](https://t.me/trinityXmods)
 
 ---
 
 ## ⚙️ What We Build
 
-* 🤖 **Telegram Bots** — Modular, powerful, and user-first
-* 🧩 **Modded Utilities** — Smart APKs & tools with real enhancements
-* 🧰 **Developer Tools** — Automation & productivity essentials
-* 🎁 **Giveaways** — Exclusive scripts, credits, and support tools
+- 🤖 **Telegram Bots** — Modular, powerful, and user-first  
+- 🧩 **Modded Utilities** — Smart APKs & tools with real enhancements  
+- 🧰 **Developer Tools** — Automation & productivity essentials  
+- 🎁 **Giveaways** — Exclusive scripts, credits, and support tools
 
 ---
 
@@ -55,9 +55,9 @@ We focus on **impact**, not noise — building tools that solve real challenges 
 
 ## 🚀 Projects
 
-* 📁 [File Store Bot](https://github.com/Trinity-Mods/File-Store-Bot) — Upload once, serve forever via shortlinks
-* 🔐 [Login Auth Bot](#) — One-time login codes for channel/admin access
-* 📤 [Link Shortener Bot](#) — Smart, monetizable URL shortener
+- 📁 [File Store Bot](https://github.com/Trinity-Mods/File-Store-Bot) — Upload once, serve forever via shortlinks  
+- 🔐 [Login Auth Bot](#) — One-time login codes for channel/admin access  
+- 📤 [Link Shortener Bot](#) — Smart, monetizable URL shortener
 
 > ✨ More tools dropping soon. Follow [@trinityXmods](https://t.me/trinityXmods)
 
@@ -103,17 +103,9 @@ We focus on **impact**, not noise — building tools that solve real challenges 
     <img src="https://img.shields.io/badge/Updates-Telegram-blue?style=for-the-badge&logo=telegram" />
   </a>
   <br><br>
-  <a href="https://t.me/the_universal_being">
-    <img src="https://img.shields.io/badge/Primary_Contact-Ragnar-blue?style=for-the-badge&logo=telegram" />
+  <a href="https://t.me/+WfkDPKF3ztpjZDI1">
+    <img src="https://img.shields.io/badge/Get+Support-Telegram+Group-darkgreen?style=for-the-badge&logo=telegram" />
   </a>
-</p>
-
-> 💬 For tech support, reach out to [@ZOX404](https://t.me/ZOX404) or [@velvetexams](https://t.me/velvetexams)
-
----
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&center=true&vCenter=true&width=700&lines=Not+just+another+dev+group...;We+build+tools+that+raise+standards.;Let+the+bots+do+the+heavy+lifting+⚡"/>
 </p>
 
 ---
@@ -121,4 +113,9 @@ We focus on **impact**, not noise — building tools that solve real challenges 
 <p align="center">
   <img src="https://media.giphy.com/media/VGK2WUT3amXjG/giphy.gif" width="160" />
 </p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&center=true&vCenter=true&width=700&lines=Not+just+another+dev+group...;We+build+tools+that+raise+standards.;Let+the+bots+do+the+heavy+lifting+⚡"/>
+</p>
+
 
