@@ -1,69 +1,62 @@
+<!-- HEADER / TITLE ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=500&color=33FFAA&center=true&vCenter=true&width=800&height=100&lines=꧁+𝙒𝙚𝙡𝙘𝙤𝙢𝙚+𝙩𝙤+𝙏𝙧𝙞𝙣𝙞𝙩𝙮+𝙈𝙤𝙙𝙨+꧂;𝗣𝗿𝗲𝗺𝗶𝘂𝗺+𝗕𝗼𝘁𝘀,+𝗧𝗼𝗼𝗹𝘀+%26+𝗠𝗼𝗿𝗲;𝗕𝘂𝗶𝗹𝘁+𝗳𝗼𝗿+𝗗𝗲𝘃𝘀,+𝗖𝗿𝗲𝗮𝘁𝗼𝗿𝘀+%26+𝗔𝗱𝗺𝗶𝗻𝘀!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=500&color=33FFAA&center=true&vCenter=true&width=850&height=100&lines=꧁+𝙒𝙚𝙡𝙘𝙤𝙢𝙚+𝙩𝙤+𝙏𝙧𝙞𝙣𝙞𝙩𝙮+𝙈𝙤𝙙𝙨+꧂;𝗣𝗿𝗲𝗺𝗶𝘂𝗺+𝗕𝗼𝘁𝘀,+𝗧𝗼𝗼𝗹𝘀+%26+𝗜𝗻𝘁𝗲𝗹;𝗙𝗼𝗿+𝗗𝗲𝘃𝘀,+𝗖𝗿𝗲𝗮𝘁𝗼𝗿𝘀+%26+𝗔𝗱𝗺𝗶𝗻𝘀+🔥" />
 </p>
 
 <h2 align="center">✦✧✦ 𝙏𝙧𝙞𝙣𝙞𝙩𝙮 𝙈𝙤𝙙𝙨 ✦✧✦</h2>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/f7653b1e-e2b1-4897-9de1-f830aca391b6" width="250px" alt="Trinity Mods Logo"/>
+  <img src="https://github.com/user-attachments/assets/f7653b1e-e2b1-4897-9de1-f830aca391b6" width="200px" alt="Trinity Mods Logo"/>
 </p>
 
 ---
 
-## 👋 Who Are We?
+## 👑 Who Are We?
 
-Welcome to <strong>Trinity Mods</strong> — your go-to source for premium Telegram bots, automation tools, and smart APKs.  
-We focus on **impact**, not noise — building tools that solve real challenges for communities, creators, and developers.
+Welcome to **Trinity Mods** — your next-gen source for **premium Telegram bots**, **automation tools**, and **creator utilities**.  
+We **solve problems**, not just build bots.
 
-> 🔧 Developed under **InfoHub Networks**  
-> 📢 Stay updated via [@trinityXmods](https://t.me/trinityXmods)
-
----
-
-## ⚙️ What We Build
-
-- 🤖 **Telegram Bots** — Modular, powerful, and user-first  
-- 🧩 **Modded Utilities** — Smart APKs & tools with real enhancements  
-- 🧰 **Developer Tools** — Automation & productivity essentials  
-- 🎁 **Giveaways** — Exclusive scripts, credits, and support tools
+> 🛠️ Built with care under **InfoHub Networks**  
+> 🗞️ Follow updates via [@trinityXmods](https://t.me/trinityXmods)
 
 ---
 
-## 🧪 Our Stack
+## 🚧 What We Build
+
+💬 **Telegram Bots** – Modular & scalable  
+📲 **Modded APKs** – Clean, enhanced, zero bloat  
+🛠 **Dev Tools** – APIs, shorteners, file storage  
+🎉 **Giveaways** – Scripts, credits, boosters
+
+---
+
+## 🧠 Our Stack
 
 <p align="center">
-  <img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" height="40"/>
+  <img src="https://skillicons.dev/icons?i=python,firebase,js,git,mongodb,flask,cloudflare&perline=7" />
 </p>
 
 ---
 
-## ☁️ Deployment Platforms
+## 🚀 Deployment Platforms
 
 <p align="center">
-  <img src="https://www.vectorlogo.zone/logos/koyeb/koyeb-icon.svg" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/render/render-icon.svg" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/railwayapp/railwayapp-icon.svg" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" height="40"/>
+  <img src="https://skillicons.dev/icons?i=heroku,railway,vercel,render,koyeb,docker&perline=6" />
 </p>
 
 ---
 
-## 🚀 Projects
+## 🛰️ Featured Projects
 
-- 📁 [File Store Bot](https://github.com/Trinity-Mods/File-Store-Bot) — Upload once, serve forever via shortlinks  
-- 🔐 [Login Auth Bot](#) — One-time login codes for channel/admin access  
-- 📤 [Link Shortener Bot](#) — Smart, monetizable URL shortener
+- 📁 [File Store Bot](https://github.com/Trinity-Mods/File-Store-Bot) — Serve files forever via shortlinks  
+- 🔐 [Login Auth Bot](#) — OTP-secured entry for channels/admins  
+- 📤 [Link Shortener Bot](#) — Smart monetized redirector
 
-> ✨ More tools dropping soon. Follow [@trinityXmods](https://t.me/trinityXmods)
+> 🧪 Explore tools in the lab via [@trinityXmods](https://t.me/trinityXmods)
 
 ---
 
-## 📈 Stats
+## 📊 Stats
 
 <table width="100%">
   <tr>
@@ -78,44 +71,47 @@ We focus on **impact**, not noise — building tools that solve real challenges 
 
 ---
 
-## 🤝 Core Team
+## 👥 Core Team
 
 <p align="center">
   <a href="https://t.me/the_universal_being">
-    <img src="https://img.shields.io/badge/𝑹𝒂𝒈𝒏𝒂𝒓_𝑳𝒐𝒕𝒉𝒃𝒓𝒐𝒌-Architect-blue?style=for-the-badge&logo=telegram" />
+    <img src="https://img.shields.io/badge/Ragnar_Architect-0f172a?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
   <br><br>
   <a href="https://t.me/ZOX404">
-    <img src="https://img.shields.io/badge/𝒁∅𝑿-Innovation-purple?style=for-the-badge&logo=telegram" />
+    <img src="https://img.shields.io/badge/ZOX_Innovation-6b21a8?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
   <br><br>
   <a href="https://t.me/velvetexams">
-    <img src="https://img.shields.io/badge/𝑫𝒓.𝑨𝒂𝒓𝒂𝒗_𝑴𝒆𝒉𝒕𝒂-Systems_crimson?style=for-the-badge&logo=telegram" />
+    <img src="https://img.shields.io/badge/Dr.Aarav_Systems-c2410c?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
 </p>
 
 ---
 
-## 🌐 Connect with Us
+## 🌐 Contact & Support
 
 <p align="center">
   <a href="https://t.me/trinityXmods">
-    <img src="https://img.shields.io/badge/Updates-Telegram-blue?style=for-the-badge&logo=telegram" />
+    <img src="https://img.shields.io/badge/Updates_Channel-2294d6?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
   <br><br>
   <a href="https://t.me/+WfkDPKF3ztpjZDI1">
-    <img src="https://img.shields.io/badge/Get+Support-Telegram+Group-darkgreen?style=for-the-badge&logo=telegram" />
+    <img src="https://img.shields.io/badge/Support_Group-2e7d32?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
 </p>
 
 ---
 
+<!-- EPIC ENDING WITH HEARTBEAT + TEXT -->
+
 <p align="center">
-  <img src="https://media.giphy.com/media/VGK2WUT3amXjG/giphy.gif" width="160" />
+  <img src="https://media.giphy.com/media/VGK2WUT3amXjG/giphy.gif" width="200" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&center=true&vCenter=true&width=700&lines=Not+just+another+dev+group...;We+build+tools+that+raise+standards.;Let+the+bots+do+the+heavy+lifting+⚡"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&center=true&vCenter=true&width=800&lines=We+don’t+just+build+bots...;We+build+standards.;Automation+that+actually+matters+⚡"/>
 </p>
+
 
 
