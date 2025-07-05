@@ -121,7 +121,7 @@ We’re not just developers — **we're creators of standards.**
   </a>
   &nbsp;&nbsp;
   <a href="https://t.me/+WfkDPKF3ztpjZDI1">
-    <img src="https://img.shields.io/badge/Get+Support_Group-059669?style=for-the-badge&logo=telegram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Support_Group-059669?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
 </p>
 
