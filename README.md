@@ -1,7 +1,8 @@
 <!-- 🎬 Entrance Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=500&color=33FFAA&center=true&vCenter=true&width=850&height=100&lines=꧁+𝙒𝙚𝙡𝙘𝙤𝙢𝙚+𝙩𝙤+𝙏𝙧𝙞𝙣𝙞𝙩𝙮+𝙈𝙤𝙙𝙨+꧂;𝗣𝗿𝗲𝗺𝗶𝘂𝗺+𝗕𝗼𝘁𝘀,+𝗧𝗼𝗼𝗹𝘀,+𝗧𝗲𝗰𝗵+%26+𝗧𝗲𝗮𝗺𝘄𝗼𝗿𝗸;𝗕𝘂𝗶𝗹𝘁+𝗳𝗼𝗿+𝗗𝗲𝘃𝘀,+𝗖𝗿𝗲𝗮𝘁𝗼𝗿𝘀+%26+𝗖𝗼𝗺𝗺𝘂𝗻𝗶𝘁𝗶𝗲𝘀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Lexend+Deca&size=28&duration=3000&pause=500&color=00FFC6&center=true&vCenter=true&width=900&height=100&lines=✦+Welcome+to+Trinity+Mods+✦;Elite+Bots%2C+Tools+%26+Innovation+Hub;Crafted+for+Developers%2C+Creators%2C+and+Communities" />
 </p>
+
 
 <h2 align="center">✦✧✦ 𝙏𝙧𝙞𝙣𝙞𝙩𝙮 𝙈𝙤𝙙𝙨 ✦✧✦</h2>
 
