@@ -135,8 +135,8 @@ We’re not just developers — **we're creators of standards.**
 ## 💖 Support Our Work
 
 <p align="center">
-  <a href="https://freeimage.host/i/FMl6FUv" target="_blank">
-    <img src="https://iili.io/FMl6FUv.th.jpg" alt="UPI QR Code" title="Click to Enlarge" />
+  <a href="https://freeimage.host/i/FMly0hJ" target="_blank">
+    <img src="https://iili.io/FMly0hJ.th.png" alt="UPI QR Code" title="Click to Enlarge" />
   </a>
 </p>
 
