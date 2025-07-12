@@ -132,6 +132,19 @@ We’re not just developers — **we're creators of standards.**
 
 ---
 
+## 💖 Support Our Work
+
+<p align="center">
+  <a href="https://freeimage.host/i/FMl6FUv" target="_blank">
+    <img src="https://iili.io/FMl6FUv.th.jpg" alt="UPI QR Code" title="Click to Enlarge" />
+  </a>
+</p>
+
+<p align="center">
+  <strong>UPI ID:</strong> <code>sendrajbooks@fam</code>
+</p>
+
+---
 <!-- 👯 Fun Dancing Vibe -->
 <p align="center">
   <img src="https://camo.githubusercontent.com/4335cd9e8b0dda4aae66a8d754ed960b2814cb03e398dbbd36d69a395346dfcf/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65322f34352f32372f65323435323734303863616235373265623461356164633861656333616662352e676966" width="250" />
