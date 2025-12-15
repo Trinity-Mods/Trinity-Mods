@@ -105,14 +105,14 @@ We’re not just developers — **we're creators of standards.**
 </p>
 
 <p align="center">
-  <a href="https://t.me/velvetexams">
-    <img src="https://img.shields.io/badge/Dr.Aarav_Assistant-7c3aed?style=for-the-badge&logo=telegram&logoColor=white" />
+  <a href="https://t.me/lovingcosmos">
+    <img src="https://img.shields.io/badge/Shrey-Assistant-7c3aed?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://t.me/ZOX404">
-    <img src="https://img.shields.io/badge/Z%E2%88%85X_Technician-f97316?style=for-the-badge&logo=telegram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Z%E2%88%85X-Technician-f97316?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
 </p>
 
