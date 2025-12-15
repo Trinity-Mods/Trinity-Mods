@@ -147,7 +147,7 @@ We’re not just developers — **we're creators of standards.**
 </p>
 
 <p align="center">
-  <sub>⚠️ Please donate using <strong>USDT – BSC (BEP-20)</strong> only via the crypto button above.</sub>
+  <sub>⚠️ Please donate using <strong>USDT – BSC (BEP-20)</strong> only, via the crypto button above.</sub>
 </p>
 
 ---
