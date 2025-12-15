@@ -135,16 +135,23 @@ We’re not just developers — **we're creators of standards.**
 ## 💖 Support Our Work
 
 <p align="center">
-  <a href="https://freeimage.host/i/FMly0hJ" target="_blank">
-    <img src="https://iili.io/FMly0hJ.th.png" alt="UPI QR Code" title="Click to Enlarge" />
+  <a href="https://payments.cashfree.com/forms?code=trinity-mods-donation" target="_blank">
+    <img src="https://img.shields.io/badge/Donate%20via%20UPI-22c55e?style=for-the-badge&logo=googlepay&logoColor=white" />
   </a>
 </p>
 
 <p align="center">
-  <strong>UPI ID:</strong> <code>sendrajbooks@fam</code>
+  <a href="https://pay.cryptomus.com/wallet/823249d5-894b-403b-bd01-ef2394f2c472" target="_blank">
+    <img src="https://img.shields.io/badge/Donate%20via%20Crypto-f59e0b?style=for-the-badge&logo=bitcoin&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <sub>⚠️ Please donate using <strong>USDT – BSC (BEP-20)</strong> only via the crypto button above.</sub>
 </p>
 
 ---
+
 <!-- 👯 Fun Dancing Vibe -->
 <p align="center">
   <img src="https://camo.githubusercontent.com/4335cd9e8b0dda4aae66a8d754ed960b2814cb03e398dbbd36d69a395346dfcf/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65322f34352f32372f65323435323734303863616235373265623461356164633861656333616662352e676966" width="250" />
